@@ -1,0 +1,8 @@
+Python Extension Pack
+Github Copilot
+Path Intellisense
+Github Pull Request
+Better Comments
+Ruff
+Marterial Icon Theme
+Atom One Dark Theme
